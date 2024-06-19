@@ -3,3 +3,6 @@ Scripts/api.env
 
 # Hide script that's just intended to explore tools
 Scripts/playground.ipynb
+
+# Hide vscode configuration
+.vscode

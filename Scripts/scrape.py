@@ -94,7 +94,7 @@ def get_report_info(url, writer):
 parent_directory = os.path.join(os.pardir, "Data")
 if not os.path.exists(parent_directory):
     os.makedirs(parent_directory)
-output_file = os.path.join(parent_directory, "output.csv")
+output_file = os.path.join(parent_directory, "raw.csv")
 
 with open(output_file, 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
