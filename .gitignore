@@ -6,3 +6,6 @@ Scripts/playground.ipynb
 
 # Hide vscode configuration
 .vscode
+
+# Hide uncompressed json due to GitHub file size limit
+/Data/tokenised.json
