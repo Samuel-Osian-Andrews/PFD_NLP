@@ -90,7 +90,7 @@ def get_report_info(url, writer):
         
     writer.writerow([url, report_id, date, receiver, content])
 
-# Create output CSV file in the parent directory
+# Create output CSV file in the `../Data` directory
 parent_directory = os.path.join(os.pardir, "Data")
 if not os.path.exists(parent_directory):
     os.makedirs(parent_directory)
