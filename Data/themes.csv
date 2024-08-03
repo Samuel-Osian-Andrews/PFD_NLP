@@ -1,26 +1,21 @@
 Topic,Count,Name
--1,706,-1_Mental Health Risk Assessment and Support Concerns
-0,58,0_Patient Safety and Risk Management in Mental Health Care
-1,45,1_Mental Health Care in Prisons: Challenges and Concerns
-2,34,2_Serious Incident Investigation and Reporting Concerns in NHS Trusts
-3,33,3_Training and Provision of Mental Health Awareness in Emergency Services
-4,33,4_Coroner's Report Response Protocols
-5,32,5_Investigation and Concerns Regarding Railway Safety and Mental Health Support
-6,26,6_Mental Health Care Assessment and Family Involvement Issues
-7,26,7_Inquest Findings on Patient Safety and Staff Policies in Mental Health Ward
-8,25,8_Police Response Inefficiencies and Information Sharing Concerns
-9,22,9_Care Coordination Challenges in Mental Health Services
-10,22,10_Coroner Report Publication and Response Process
-11,19,11_Inadequate Observation Practices and Record Keeping in Mental Health Care Units
-12,18,12_ACCT Process and Training Gaps in Prison Healthcare
-13,17,13_Information Sharing Gaps in Mental Health Care
-14,16,14_Mental Health Support for Children and Young People
-15,16,15_Discharge Planning and Family Involvement in Patient Care
-16,15,16_Ligature Risks and Suicide Prevention in Psychiatric and Prison Settings
-17,14,17_e-security and support policies in education
-18,13,18_Inadequacies in Community Mental Health Provision for Individuals with Autism and Neurodiverse Conditions
-19,13,19_Psychiatric Bed Availability and Patient Safety Issues in Mental Health Care
-20,13,20_Risk Assessment and Documentation Challenges in Patient Care
-21,12,21_Mental Health Service Delays and Access Issues in the NHS
-22,10,22_Mental Health Communication and Coordination Failures
-23,10,23_Clinical Assessment Delays and Student Support Issues
+-1,770,-1_NHS Mental Health Safety and Risk Assessment Concerns
+0,81,0_Prison Healthcare and Mental Health Management Issues
+1,33,1_Patient Safety and Medication Management Concerns Following Inquest Findings
+2,31,2_Inadequate Risk Assessment and Discharge Planning in Clinical Care
+3,30,3_Mental Health Crisis and Inpatient Care Access Challenges
+4,29,4_Coroner's Report Response and Publication Guidelines
+5,27,5_Police Training and Mental Health Response Concerns
+6,26,6_Railway Safety and Police Response in Death Investigations
+7,26,7_Communication Failures in Mental Health Services
+8,23,8_Regulation and Impact of Online Suicide-Related Content on Vulnerable Individuals
+9,22,9_Continuity of Care Challenges in Mental Health Trust
+10,21,10_University Response to Student Mental Health Support and Engagement Strategies
+11,21,11_Inadequate Risk Assessment and Observation Procedures in Mental Health Care
+12,21,12_Action Required to Address Risks and Prevent Future Deaths
+13,19,13_Inadequacies in Mental Health Assessment and Care Coordination
+14,18,14_Chief Coroner's Report and Response Obligations
+15,15,15_Inadequacies in Community Mental Health Support for Autistic Youth
+16,13,16_Discharge Planning and Care Coordination for Vulnerable Patients
+17,12,17_NHS Waiting Times and Mental Health Service Delays
+18,10,18_Inadequacies in Serious Incident Investigation and Patient Safety Reviews in NHS Trusts
